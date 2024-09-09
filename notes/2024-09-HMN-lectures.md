@@ -1,7 +1,7 @@
 
 1. Intro and setup
 2. Mocap Lab tour
-3. Intro to 3D Space 
+3. Intro to 3D Space (Geometry)
 	1. Body-Math, Vision-Math
 4. Intro to Bodies (Biomechanics)
 	1. Body-Theory
@@ -36,7 +36,7 @@
  4. Methodological: Mocap, EMG, force plates
  5. Theory:  Center of Mass, Biomechanics,  etc.
  6. Math: Newton's Laws, Forces, 3d trajectory analysis
-	 
+ 
 #### Lasers (Sensory, esp vision)
   1. Physiology:  Eyeballs, retinae, oculomotor system, etc
   2. Neural Bases: Cortical & Subcortical, esp vision and ocolomotor control
