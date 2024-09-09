@@ -27,7 +27,7 @@ Students will explore the neural basis of natural human behavior in real-world c
 
 | Date (Tues)   | Week    | Topic                                         |
 | ------------- | ------- | --------------------------------------------- |
-| 10  Sept 2024 | Week 1  | Intro and Setup                               |
+| 10  Sept 2024 | Week 1  | [[lectures/Intro and Setup]]                           |
 | 17  Sept 2024 | Week 2  | Richards 453 Lab visit (Methods)              |
 | 24  Sept 2024 | Week 3  | Intro to Space (3D Geometry)                  |
 | 1  Oct  2024  | Week 4  | Intro to Bodies (Biomechanics)                |

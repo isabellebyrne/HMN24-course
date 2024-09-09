@@ -6,6 +6,6 @@
   "livePreview": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "alwaysUpdateLinks": false,
+  "alwaysUpdateLinks": true,
   "useMarkdownLinks": true
 }

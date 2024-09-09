@@ -6,7 +6,7 @@
       {
         "id": "50a29205eb14ca05",
         "type": "tabs",
-        "dimension": 36.9106699751861,
+        "dimension": 32.94044665012407,
         "children": [
           {
             "id": "74421a54192b4fb1",
@@ -25,7 +25,7 @@
       {
         "id": "fcad8d092cddf30f",
         "type": "tabs",
-        "dimension": 63.0893300248139,
+        "dimension": 67.05955334987593,
         "children": [
           {
             "id": "ea70aa81f7bb7287",
@@ -39,8 +39,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1db4ba1761faa83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "lectures/Intro and Setup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "lectures/Intro and Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "lectures/Intro and Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "lectures/Intro and Setup.md"
               }
             }
           }
@@ -168,10 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea70aa81f7bb7287",
+  "active": "bad5c05d3c0b9cd6",
   "lastOpenFiles": [
-    "notes/2024-09-HMN-lectures.md",
     "README.md",
+    "lectures/Intro and Setup.md",
+    "notes/2024-09-HMN-lectures.md",
     "notes",
     "Untitled.canvas"
   ]
