@@ -21,34 +21,26 @@ Students will explore the neural basis of natural human behavior in real-world c
 ## Course Objectives
 - Gain exposure to key concepts related to neural control of human movement.
 - Develop a basic understanding of methods and techniques for the recording and analysis of human movement.
-- Apply interdisciplinary approaches when collaborating on complex problems.
-- Contribute effectively within a team setting towards achieving common goals.
-
-## Learning Outcomes
-### Design and conduct a research project
-- Develop a research plan
-- Conduct a literature review
-- Compile, analyze, and interpret empirical results
-- Present research to a group
+- Learn how to use AI/ML tools for research and learning
 
 ## Schedule Overview
 
-|Date (Tues)| Week |  Topic |
-|----|----------|---------------| 
-|  10  Sept 2024  | Week 1  | Intro and Setup |
-|  17  Sept 2024  | Week 2  | Richards 453 Lab visit (Methods) 
-|  24  Sept 2024  | Week 3  | Intro to Space (3D Geometry)
-|   1  Oct  2024  | Week 4  | Intro to Bodies (Biomechanics)
-|   8  Oct  2024  | Week 5  | Intro to Eyeballs (Sensory systems) 
-|  15  Oct  2024  | Week 6  | Intro to Skeletons (Paleoanthropology)
-|  22  Oct  2024  | Week 7  | Intro to Muscles (Motor control systems)
-|  29  Oct  2024  | Week 8  | Intro to Gaze (Oculomotor control)
-|   5  Nov  2024  | Week 9  | Intro to Laser Skeletons (Integration)
-|  12  Nov  2024  | Week 10 | Advanced Laser Skeletons (aka Jon's research)
-|  19  Nov  2024  | Week 11 | Intro to Trauma (Neurovisceral Theory)
-|  26  Nov  2024  | Week 12 | Intro to Scale (Emergence)
-|   5  Nov  2024  | Week 13 | Topics Presentations
-|   3  Dec  2024  | Week 14 | Course Wrap-up
+| Date (Tues)   | Week    | Topic                                         |
+| ------------- | ------- | --------------------------------------------- |
+| 10  Sept 2024 | Week 1  | Intro and Setup                               |
+| 17  Sept 2024 | Week 2  | Richards 453 Lab visit (Methods)              |
+| 24  Sept 2024 | Week 3  | Intro to Space (3D Geometry)                  |
+| 1  Oct  2024  | Week 4  | Intro to Bodies (Biomechanics)                |
+| 8  Oct  2024  | Week 5  | Intro to Eyeballs (Sensory systems)           |
+| 15  Oct  2024 | Week 6  | Intro to Skeletons (Paleoanthropology)        |
+| 22  Oct  2024 | Week 7  | Intro to Muscles (Motor control systems)      |
+| 29  Oct  2024 | Week 8  | Intro to Gaze (Oculomotor control)            |
+| 5  Nov  2024  | Week 9  | Intro to Laser Skeletons (Integration)        |
+| 12  Nov  2024 | Week 10 | Advanced Laser Skeletons (aka Jon's research) |
+| 19  Nov  2024 | Week 11 | Intro to Trauma (Neurovisceral Theory)        |
+| 26  Nov  2024 | Week 12 | Intro to Scale (Emergence)                    |
+| 5  Nov  2024  | Week 13 | Topics Presentations                          |
+| 3  Dec  2024  | Week 14 | Course Wrap-up                                |
 
 
 ### Software
