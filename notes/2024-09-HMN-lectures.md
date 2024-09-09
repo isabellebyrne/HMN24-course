@@ -5,7 +5,7 @@
 	1. Body-Math, Vision-Math
 4. Intro to Bodies (Biomechanics)
 	1. Body-Theory
-	2. Body-Methodology
+	2. Body-Methods
 5. Intro to Eyeballs (Sensory systems)
 	1. Vision-Physiology
 	2. Vision-Theory
@@ -16,14 +16,15 @@
 	2. Body-Neuro
 8. Intro to Gaze (Visual system)
 	1. Vision-Neuro
+	1. Vision-Phylogeny
 	2. Vision-Physiology
-	3. Vision-Methodology
+	3. Vision-Methods
 9. Intro to Laser Skeletons
 10. Advanced Laser Skeletons (aka Jon's research)
-11. Content Derived Lectures #1
-12.  Content Derived Lectures #2
-13.  Topics Presentations 
-14.  Class Wrap up
+11. Intro to Trauma (Neurovisceral Theory)
+12. Intro to Scale (Swarms and emergence )
+13. Topics Presentations 
+14. Class Wrap up
 
 ## Topics: 
 

@@ -6,7 +6,7 @@
       {
         "id": "50a29205eb14ca05",
         "type": "tabs",
-        "dimension": 61.35235732009926,
+        "dimension": 36.9106699751861,
         "children": [
           {
             "id": "74421a54192b4fb1",
@@ -25,7 +25,7 @@
       {
         "id": "fcad8d092cddf30f",
         "type": "tabs",
-        "dimension": 38.64764267990075,
+        "dimension": 63.0893300248139,
         "children": [
           {
             "id": "ea70aa81f7bb7287",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/2024-09-HMN-lectures.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/2024-09-HMN-lectures.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/2024-09-HMN-lectures.md"
+                "file": "README.md"
               }
             }
           }
@@ -168,10 +168,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74421a54192b4fb1",
+  "active": "ea70aa81f7bb7287",
   "lastOpenFiles": [
-    "README.md",
     "notes/2024-09-HMN-lectures.md",
+    "README.md",
     "notes",
     "Untitled.canvas"
   ]
