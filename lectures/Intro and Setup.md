@@ -10,3 +10,18 @@
 		4. Clone YOUR FORK with Github Desktop
 		5. Open in Obsidian
 	3. Brief overview of Obsidian
+		1. Basic Markdown
+		2. Settings
+		3. Hotkeys
+		4. Multi-cursor
+		5. Plugins
+3. Skill Share
+	1. Intro to AI
+	2. How to SkellyBot
+	3.  WYLTKM?
+		1. Prompt engineering
+		2. 3B1B videos about Transformers
+4. Lecture content
+	1. =Draw the PandA Monster=
+	2. 
+5. 
