@@ -36,7 +36,7 @@
                 "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               }
             }
           }

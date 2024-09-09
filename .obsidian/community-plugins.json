@@ -1,4 +1,6 @@
 [
   "obsidian-editor-shortcuts",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-pandoc",
+  "multi-column-markdown"
 ]

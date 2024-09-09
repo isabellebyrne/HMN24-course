@@ -51,10 +51,8 @@ Students will explore the neural basis of natural human behavior in real-world c
 |   3  Dec  2024  | Week 14 | Course Wrap-up
 
 
-1. 
-
 ### Software
-
+- [Github Desktop](https://github.com/)
 - [Obsidian.md](https://obsidian.md/)
 - [Blender](https://www.blender.org/)
   
