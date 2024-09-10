@@ -84,7 +84,7 @@ def extract_audio_from_videos(directory: str,
     logging.info("Audio extraction and transcription completed.")
 
 if __name__ == "__main__":
-    directory = r"D:\videos\obs-recordings\2024-08-09"
+    directory = r"C:\Users\jonma\Videos\2024-09-10_11_18_23"
     exclude = ['exclude_folder', 'exclude_file.mp4']
     whisper_model = "large" # use `base.en` if you're in a hurry and only speaking english, but the results are noticably better with the `large` model
     extract_audio_from_videos(directory=directory, exclude=exclude, whisper_model=whisper_model)
