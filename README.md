@@ -35,12 +35,37 @@ Students will explore the neural basis of natural human behavior in real-world c
 
  The course will cover philosophical, technological, and scientific aspects related to the study of the neural bases of natural behavior while emphasizing hands on, project based learning. Students will use free open source software, and artificial intelligence/machine learning and computer vision driven tools and methods to record human movement in unconstrained environments.
 
-    
+## Topics: 
+
+### Laser Skeletons: 
+
+####  Skeletons (Body)
+ 1. Physiology: Musculoskeletal system 
+ 2. Neuroscience: Cortical, subcortical, peripheral (lower level neuromechanics)
+ 3. Phylogeny: Evolutionary history, Lovejoy papers, 
+ 4. Methodological: Mocap, EMG, force plates
+ 5. Theory:  Center of Mass, Biomechanics,  etc.
+ 6. Math: Newton's Laws, Forces, 3d trajectory analysis
+ 
+#### Lasers (Sensory, esp vision)
+  1. Physiology:  Eyeballs, retinae, oculomotor system, etc
+  2. Neural Bases: Cortical & Subcortical, esp vision and ocolomotor control
+  3. Phylogeny: Evolution of vision, Mike Land, etc.
+  4. Methodological:  cameras, eye tracking, VR
+  5. Theory: Optics, refraction, lenses, etc
+  6. Math: Spherical coordinates, projective geometry, spherical coordinates
+
+#### Laser Skeletons
+1. Physiology: SM/PA pathways? 
+2. Neural Bases: Integrative cortex, Higher motor systems, corticospinal tract
+ 3. Phylogeny: Comparative stuff? Dragonflies, bees, and ants? 
+ 4. Methodological: Laser Skeletons
+ 5. Theory: Behavioral dynamics, 
+ 6. Math: Control theory, dynamical systems  
 ## Course Objectives
 - Gain exposure to key concepts related to neural control of human movement.
 - Develop a basic understanding of methods and techniques for the recording and analysis of human movement.
 - Learn how to use AI/ML tools for research and learning
-
 
 
 ### Software
