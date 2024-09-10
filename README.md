@@ -7,7 +7,7 @@
  **Course Location**: (on canvas)
 
 ### Course Materials and Resources
-- Discord Server (Invite on Canvas) - [TBA]
+- Discord Server (Invite on Canvas)
 - Canvas page - [TBA]
 - Course website: [TBA]
 
