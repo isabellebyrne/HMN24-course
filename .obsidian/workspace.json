@@ -6,7 +6,7 @@
       {
         "id": "50a29205eb14ca05",
         "type": "tabs",
-        "dimension": 32.94044665012407,
+        "dimension": 59.30521091811415,
         "children": [
           {
             "id": "74421a54192b4fb1",
@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/2024-09-HMN-lectures.md",
+                "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -25,7 +25,7 @@
       {
         "id": "fcad8d092cddf30f",
         "type": "tabs",
-        "dimension": 67.05955334987593,
+        "dimension": 40.69478908188586,
         "children": [
           {
             "id": "ea70aa81f7bb7287",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectures/Intro and Setup.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectures/Intro and Setup.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectures/Intro and Setup.md"
+                "file": "README.md"
               }
+            }
+          },
+          {
+            "id": "ed6070d14050216b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -179,14 +187,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bad5c05d3c0b9cd6",
+  "active": "74421a54192b4fb1",
   "lastOpenFiles": [
-    "README.md",
-    "lectures/Intro and Setup.md",
+    "topics/index.md",
     "notes/2024-09-HMN-lectures.md",
+    "topics",
+    "lectures/Intro and Setup.md",
+    "README.md",
     "notes",
     "Untitled.canvas"
   ]

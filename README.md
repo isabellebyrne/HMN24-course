@@ -11,23 +11,11 @@
 - Canvas page - [TBA]
 - Course website: [TBA]
 
-
-## Course Description
-Students will explore the neural basis of natural human behavior in real-world contexts (e.g. sports, dance, or everyday activities) by investigating  biomechanics and  neuroscience of human movement, with a focus on the interactions between the perecptual and motor systems in the context of natural tasks and behavior.
-
- The course will cover philosophical, technological, and scientific aspects related to the study of the neural bases of natural behavior while emphasizing hands on, project based learning. Students will use free open source software, and artificial intelligence/machine learning and computer vision driven tools and methods to record human movement in unconstrained environments.
-
-    
-## Course Objectives
-- Gain exposure to key concepts related to neural control of human movement.
-- Develop a basic understanding of methods and techniques for the recording and analysis of human movement.
-- Learn how to use AI/ML tools for research and learning
-
 ## Schedule Overview
 
 | Date (Tues)   | Week    | Topic                                         |
 | ------------- | ------- | --------------------------------------------- |
-| 10  Sept 2024 | Week 1  | [[lectures/Intro and Setup]]                           |
+| 10  Sept 2024 | Week 1  | [[lectures/Intro and Setup]]                  |
 | 17  Sept 2024 | Week 2  | Richards 453 Lab visit (Methods)              |
 | 24  Sept 2024 | Week 3  | Intro to Space (3D Geometry)                  |
 | 1  Oct  2024  | Week 4  | Intro to Bodies (Biomechanics)                |
@@ -41,6 +29,18 @@ Students will explore the neural basis of natural human behavior in real-world c
 | 26  Nov  2024 | Week 12 | Intro to Scale (Emergence)                    |
 | 5  Nov  2024  | Week 13 | Topics Presentations                          |
 | 3  Dec  2024  | Week 14 | Course Wrap-up                                |
+
+## Course Description
+Students will explore the neural basis of natural human behavior in real-world contexts (e.g. sports, dance, or everyday activities) by investigating  biomechanics and  neuroscience of human movement, with a focus on the interactions between the perecptual and motor systems in the context of natural tasks and behavior.
+
+ The course will cover philosophical, technological, and scientific aspects related to the study of the neural bases of natural behavior while emphasizing hands on, project based learning. Students will use free open source software, and artificial intelligence/machine learning and computer vision driven tools and methods to record human movement in unconstrained environments.
+
+    
+## Course Objectives
+- Gain exposure to key concepts related to neural control of human movement.
+- Develop a basic understanding of methods and techniques for the recording and analysis of human movement.
+- Learn how to use AI/ML tools for research and learning
+
 
 
 ### Software

@@ -3,5 +3,7 @@
   "obsidian-git",
   "obsidian-pandoc",
   "multi-column-markdown",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "table-editor-obsidian",
+  "calendar"
 ]
