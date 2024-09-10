@@ -194,6 +194,11 @@
   },
   "active": "74421a54192b4fb1",
   "lastOpenFiles": [
+    "code/video_transcriber/video_transcriber.py",
+    "code/video_transcriber/requirements.txt",
+    "code/video_transcriber/README.md",
+    "code/video_transcriber",
+    "code",
     "topics/index.md",
     "README.md",
     "notes/2024-09-HMN-lectures.md",
