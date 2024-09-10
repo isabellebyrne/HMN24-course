@@ -6,7 +6,6 @@
       {
         "id": "50a29205eb14ca05",
         "type": "tabs",
-        "dimension": 59.30521091811414,
         "children": [
           {
             "id": "74421a54192b4fb1",
@@ -22,40 +21,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "fcad8d092cddf30f",
-        "type": "tabs",
-        "dimension": 40.69478908188585,
-        "children": [
-          {
-            "id": "ea70aa81f7bb7287",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b1db4ba1761faa83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lectures/Intro and Setup.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
