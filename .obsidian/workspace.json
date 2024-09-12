@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "lectures/Intro and Setup.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "lectures/Intro and Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "lectures/Intro and Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "lectures/Intro and Setup.md"
               }
             }
           },
@@ -160,16 +160,16 @@
   },
   "active": "74421a54192b4fb1",
   "lastOpenFiles": [
+    "README.md",
+    "lectures/Intro and Setup.md",
     "code/video_transcriber/video_transcriber.py",
     "code/video_transcriber/requirements.txt",
     "code/video_transcriber/README.md",
     "code/video_transcriber",
     "code",
     "topics/index.md",
-    "README.md",
     "notes/2024-09-HMN-lectures.md",
     "topics",
-    "lectures/Intro and Setup.md",
     "notes",
     "Untitled.canvas"
   ]
