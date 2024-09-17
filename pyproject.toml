@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hmn24-course"
+version = "0.1.0"
+description = ""
+authors = ["jonmatthis <jonmatthis@gmail.com>"]
+license = "AGPLv3+"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">3.9, <3.13"
+audio-extract = "^0.6.0"
+openai-whisper = "^20231117"
+numpy = "1.*"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
