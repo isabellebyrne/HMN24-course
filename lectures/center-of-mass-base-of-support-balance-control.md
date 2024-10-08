@@ -2,7 +2,7 @@
 
 
 ## Center of Mass
-- [[reddit gifs]]
+- [[com-gifs]]
 - [[Winter anthropometry]]
 - Balance stick demo (hanging w/ weights)
 
