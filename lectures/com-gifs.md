@@ -9,7 +9,7 @@
 
 - triple pendulum balance - https://imgur.com/i-did-center-of-mass-analysis-of-triple-pendulum-robot-3Jcud1A
   
-- Ballerina bosu ball balance - https://www.dropbox.com/scl/fi/lpfttjhnxt6vo7shzb4fr/ballerinaRaw.mp4?rlkey=m1t6yjuh9vqx31cz512z7lfxu&st=i8puoosd&dl=0
+- Ballerina bosu ball balance - https://www.dropbox.com/scl/fi/ivhysfmty3qn1lzxx5ys2/ballerinaCOM.mp4?rlkey=f319cbbhv36gmi63dp0g77lro&st=ccp2d8v1&dl=0
 
 
 - Levchenko fosbury flop - https://imgur.com/yuliya-levchenko-1-96m-high-jump-european-championship-u23-KS8PvWm
