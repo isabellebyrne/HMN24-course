@@ -1,0 +1,29 @@
+[cam_0]
+name = "sesh_2022-09-19_16_16_50_in_class_jsm_synced_Cam1"
+size = [ 720, 1280,]
+matrix = [ [ 910.3393160378007, 0.0, 359.5,], [ 0.0, 910.3393160378007, 639.5,], [ 0.0, 0.0, 1.0,],]
+distortions = [ -0.32410020026225606, 0.0, 0.0, 0.0, 0.0,]
+rotation = [ 0.04068716452581007, 0.01735751064129711, 0.07060340906233904,]
+translation = [ 0.0, 0.0, 0.0,]
+
+[cam_1]
+name = "sesh_2022-09-19_16_16_50_in_class_jsm_synced_Cam2"
+size = [ 720, 1280,]
+matrix = [ [ 857.6004988722163, 0.0, 359.5,], [ 0.0, 857.6004988722163, 639.5,], [ 0.0, 0.0, 1.0,],]
+distortions = [ -0.31334074196125766, 0.0, 0.0, 0.0, 0.0,]
+rotation = [ 0.09896769154485566, 1.232554642216913, 0.6359512346819383,]
+translation = [ -5474.615528984495, -1399.0173646510623, 1607.373240199544,]
+
+[cam_2]
+name = "sesh_2022-09-19_16_16_50_in_class_jsm_synced_Cam3"
+size = [ 720, 1280,]
+matrix = [ [ 878.1397128965585, 0.0, 359.5,], [ 0.0, 878.1397128965585, 639.5,], [ 0.0, 0.0, 1.0,],]
+distortions = [ -0.3379900812227152, 0.0, 0.0, 0.0, 0.0,]
+rotation = [ 0.11554807007371203, 0.5902618615270921, 0.5154523974240499,]
+translation = [ -3061.1672701594894, -767.9222580818246, -299.51218335361636,]
+
+[metadata]
+charuco_square_size = 126.0
+charuco_board_object = "CharucoBoardDefinition(aruco_marker_dict=< cv2.aruco.Dictionary 00000266BD492DB0>, number_of_squares_width=7, number_of_squares_height=5, black_square_side_length=1, aruco_marker_length_proportional=0.8)"
+path_to_recorded_videos = "C:\\Users\\Aaron\\FreeMocap_Data\\recording_sessions\\freemocap_test_data\\synchronized_videos"
+date_time_calibrated = "2024-09-10T18:34:31"

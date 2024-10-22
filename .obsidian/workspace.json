@@ -193,22 +193,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74421a54192b4fb1",
+  "active": "bad5c05d3c0b9cd6",
   "lastOpenFiles": [
-    "pyproject.toml",
+    "code/data/freemocap_test_data/synchronized_videos/sesh_2022-09-19_16_16_50_in_class_jsm_synced_Cam2.mp4",
+    "code/data/freemocap_test_data/synchronized_videos/sesh_2022-09-19_16_16_50_in_class_jsm_synced_Cam3.mp4",
+    "code/data/freemocap_test_data/synchronized_videos/sesh_2022-09-19_16_16_50_in_class_jsm_synced_Cam1.mp4",
+    "code/data/freemocap_test_data/synchronized_videos",
+    "code/data/freemocap_test_data/saved_data/info/trajectory_names.json",
+    "code/data/freemocap_test_data/saved_data/info/freemocap_data_handler.pkl",
+    "code/data/freemocap_test_data/saved_data/info/metadata.json",
+    "code/data/freemocap_test_data/saved_data/npy/center_of_mass_frame_name_xyz.npy",
+    "code/data/freemocap_test_data/saved_data/npy/face_frame_name_xyz.npy",
+    "code/data/freemocap_test_data/saved_data/npy/right_hand_frame_name_xyz.npy",
+    "code/data/freemocap_test_data/saved_data/npy/left_hand_frame_name_xyz.npy",
+    "code/data/freemocap_test_data/saved_data/_FREEMOCAP_DATA_README.md",
+    "code/data/freemocap_test_data/saved_data/_BONE_AND_JOINT_DATA_README.md",
+    "code/data/freemocap_test_data/freemocap_test_data/saved_data/_FREEMOCAP_DATA_README.md",
+    "code/data/freemocap_test_data/freemocap_test_data/saved_data/_BONE_AND_JOINT_DATA_README.md",
     "assignments/image.png",
     "assignments/assignment1-introductions-and-explorations.md",
-    "code/video_transcriber/video_transcriber.py",
-    "code/video_transcriber/requirements.txt",
     "code/video_transcriber/README.md",
-    "code/video_transcriber",
-    "code",
     "topics/index.md",
     "README.md",
     "notes/2024-09-HMN-lectures.md",
-    "topics",
     "lectures/Intro and Setup.md",
-    "notes",
     "Untitled.canvas"
   ]
 }

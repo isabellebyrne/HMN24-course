@@ -1,0 +1,25 @@
+{
+    "tracking_parameters_model": {
+        "num_processes": 11,
+        "run_image_tracking": false
+    },
+    "anipose_triangulate_3d_parameters_model": {
+        "run_reprojection_error_filtering": false,
+        "reprojection_error_confidence_cutoff": 90.0,
+        "minimum_cameras_to_reproject": 3,
+        "use_triangulate_ransac_method": false,
+        "run_3d_triangulation": true,
+        "flatten_single_camera_data": true
+    },
+    "post_processing_parameters_model": {
+        "framerate": 30.0,
+        "butterworth_filter_parameters": {
+            "sampling_rate": 30.0,
+            "cutoff_frequency": 7.0,
+            "order": 4
+        },
+        "max_gap_to_fill": 10,
+        "run_butterworth_filter": true
+    },
+    "tracking_model_info": {}
+}
